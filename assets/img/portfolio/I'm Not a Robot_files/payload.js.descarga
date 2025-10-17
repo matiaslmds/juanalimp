@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/not-a-robot", {data:[{}],fetch:{},mutations:[]});
